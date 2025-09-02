@@ -1,3 +1,3 @@
-# branding
+# byte3.it Branding
 
-byte3.cloud branding
+Brand assets and logos for byte3.it
